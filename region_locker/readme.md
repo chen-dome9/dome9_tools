@@ -54,5 +54,7 @@ optional arguments:
   					
 ## Examples
 ./d9_newly_detected_sg_handling_policy.py -u v2id -p v2key --d9AcctID 7825-361b-2523-ycef-3042df7f7320 --region us-east-1 --mode ReadOnly
+
 ./d9_newly_detected_sg_handling_policy.py -u v2id -p v2key --d9AcctID 7825-361b-2523-ycef-3042df7f7320 --region us-east-1 --mode FullManage
+
 ./d9_newly_detected_sg_handling_policy.py -u v2id -p v2key --d9AcctID 7825-361b-2523-ycef-3042df7f7320 --region us-east-1 --mode RegionLock
